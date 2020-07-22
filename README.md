@@ -6,7 +6,7 @@ I am Khalil Muhammad - Full Stack Developer with 6 years of experience. Become a
 
 🌱 I’m currently experimenting with [Deno](https://deno.land/) and [Rust](https://www.rust-lang.org/).
 
-💬 Ask me about Javascript / Typescript, Redux, Nodejs, .Net Core, Expressjs, Mongodb, Docker, Microservice
+💬 Ask me about Javascript / Typescript, Redux, Nodejs, .Net Core, Expressjs, Mongodb, Sql Server, Mysql, Postgres, Docker, Microservice
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khalil-mirza/), [Email](mailTo:khalilmohammadmirza@gmail.com).
 
