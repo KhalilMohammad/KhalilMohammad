@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Khalil Muhammad - Full Stack Developer with 6 years of experience. Become a software engineer by following my passion for programming. Assisted many startups from the US, and Germany.
+I am Khalil Muhammad - Full Stack Developer with 8+ years of experience. Become a software engineer by following my passion for programming. Assisted many startups from the US, and Germany.
 
 🔭 I’m currently working on [MMCHR](https://www.mmchr.com/) as Lead contributor, a Human Resources Outsourcing and Payroll Services in Los Angeles California.
 
