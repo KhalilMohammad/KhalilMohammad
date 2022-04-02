@@ -21,6 +21,10 @@ I am Khalil Muhammad - Full Stack Developer with 8+ years of experience. Become 
 
 - [Office addin for patentbots](https://www.patentbots.com/) - provides essential tools for patent prosecution. I contributed to it. It is built using vanilla javascript, django, GCP, aws.
 
+- [Translation software for united nations](https://www.un.org/dgacm/en/content/gtext) - provide text translation software. It's built using C#, Azure, SQL Server, VueJs
+
+- [Shopify loyalty app](https://www.inveterate.com/) - provides loyalty services to shopify. It's built using AWS Lambda, AWS CDK, ReactJs, NodeJs.
+
 😄 Pronouns: he/him/his
 
 <!--
