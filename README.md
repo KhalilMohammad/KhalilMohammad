@@ -1,47 +1,40 @@
 ### Hi there 👋
 
-I am Khalil Muhammad - Full Stack Developer with 12+ years of experience. Become a software engineer by following my passion for programming. Assisted many startups from the US, and Germany.
+I’m **Khalil Muhammad Mirza**, a Full Stack Developer with 12+ years of hands-on experience designing and optimizing scalable applications across diverse industries. I specialize in backend-heavy systems, workflow automation, VOIP, web scraping, and AI-integrated apps. I've contributed to startups and global organizations including the **United Nations**, **Sysco**, and several enterprise SaaS products.
 
-🔭 I’m currently working on [United Nations](https://www.un.org/dgacm/en/content/gtext) as Lead contributor for Inter Government Company i.e. United Nations.
+🔭 I’m currently working with the [United Nations](https://www.un.org/dgacm/en/content/gtext) as a Lead Contributor, building critical linguistic and editorial tools.
 
-🌱 I’m currently looking for challenging opportunities.
+🌱 I’m open to impactful and challenging full-stack/backend engineering roles, particularly in cloud-native, API-driven or automation-focused domains.
 
-💬 Ask me about Javascript / Typescript, Redux, Nodejs, .Net Core, Expressjs, Mongodb, Sql Server, Mysql, Postgres, Docker, Microservice
+💬 Ask me about:
+- Languages: **JavaScript**, **TypeScript**, **Golang**, **Python**, **C#**
+- Backend: **Node.js**, **.NET Core**, **Express.js**
+- Frontend: **React**, **Vue.js**, **AngularJS**
+- Cloud: **AWS**, **Azure**, **Google Cloud Platform (GCP)**
+- Databases: **MySQL**, **PostgreSQL**, **SQL Server**, **MongoDB**
+- DevOps: **Docker**, **Kubernetes**, **Microservices**, **CI/CD**
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khalil-mirza/), [Email](mailTo:khalilmohammadmirza@gmail.com).
+📫 Reach out: [LinkedIn](https://www.linkedin.com/in/khalil-mirza/), [Email](mailto:khalilmohammadmirza@gmail.com)
 
-🚀 Some of my main projects:
-- [Marketting automation app](https://www.yourccsteam.com/) - a Marketting automation app built using golang, GCP, GRPC, Docker, Kubernetes, reactJs, mysql and nodejs
+🚀 Key Projects:
+- **[eLUNa Suite @ United Nations](https://www.un.org/dgacm/en/content/gtext)** – Translation, editorial, and multilingual search platforms using .NET, Vue, Azure, and SQL Server.
+- **[Marketing Automation App](https://www.yourccsteam.com/)** – Built with Go, GCP, GRPC, Docker, Kubernetes, and ReactJS.
+- **[MMCHR Portal](http://mmcapp001.azurewebsites.net/)** – HR and payroll SaaS platform using .NET Core, Azure Functions, React, SQL Server.
+- **[Sysco Guest Supply](http://vcmsystems.com/)** – Scalable vendor compliance and guest supply portal using .NET, Node.js, Vue, AngularJS, AWS, Azure.
+- **[Inveterate Shopify Loyalty App](https://www.inveterate.com/)** – AWS CDK, Lambda, Node.js, React for loyalty integration on Shopify.
+- **[Telnyx SDK](https://developers.telnyx.com/)** – REST API SDK in 6 languages with full test coverage and continuous integration.
+- **[Zooma Azure Marketplace App]** – Automates ADP & Azure Entra ID workflows to reduce IT overhead.
+- **[PowerPoint Add-in for HanoverResearch]** – Automates data visualization and reporting in research documents.
+- **[TheWoundPros E-Signature Solution]** – HIPAA-compliant digital consent platform for healthcare.
+- **[Crayon Cargo Monitoring]** – Full-stack performance dashboard for maritime logistics.
 
-- [United Nation's text translation and editor app](https://www.un.org/dgacm/en/content/gtext) - a Text translation and editor app built using .net core, azure, azure functions, vuejs, sql server and nodejs
-
-- [MMCHR Portal](http://mmcapp001.azurewebsites.net/) - a Human Resources Outsourcing and Payroll Services built using .net core, azure, azure functions, react, sql server and nodejs
-
-- [Sysco Guest Supply Portal](http://vcmsystems.com/) - full-service provider of personal care amenity programs and room accessories to the lodging industry built using .net core, nodejs, typescript, angular 1, vuejs, azure, aws IAM, aws lambda, aws api gateway and sql server
-
-- [Legacy Sysco Guest Supply Portal](https://www.sgs-vendorcompliance.com/) - full-service provider of personal care amenity programs and room accessories to the lodging industry built using azure, .net winforms and sql server
-
-- [Office addins for Flow Fact](https://www.flowfact.de/) - a CRM software. I made office addins for them using aws lambda, react, typescript, nodejs, aws cognito and exchange server.
-
-- [Office addin for patentbots](https://www.patentbots.com/) - provides essential tools for patent prosecution. I contributed to it. It is built using vanilla javascript, django, GCP, aws.
-
-- [Translation software for united nations](https://www.un.org/dgacm/en/content/gtext) - provide text translation software. It's built using C#, Azure, SQL Server, VueJs
-
-- [Shopify loyalty app](https://www.inveterate.com/) - provides loyalty services to shopify. It's built using AWS Lambda, AWS CDK, ReactJs, NodeJs.
+🧠 Noteworthy:
+- Built QuickBooks integrations (online and desktop) for multiple clients.
+- Developed LTI 1.3 compliant OAuth apps for education platforms.
+- Delivered Office Add-ins for FlowFact and PatentBots using AWS and Microsoft Graph API.
 
 😄 Pronouns: he/him/his
 
 <!--
 **KhalilMohammad/KhalilMohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
