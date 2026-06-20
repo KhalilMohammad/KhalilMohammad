@@ -1,37 +1,45 @@
 ### Hi there 👋
 
-I’m **Khalil Muhammad Mirza**, a Full Stack Developer with 12+ years of hands-on experience designing and optimizing scalable applications across diverse industries. I specialize in backend-heavy systems, workflow automation, VOIP, web scraping, and AI-integrated apps. I've contributed to startups and global organizations including the **United Nations**, **Sysco**, and several enterprise SaaS products.
+I’m **Khalil Muhammad Mirza** — a Full-Stack Developer & Systems Architect with **12+ years** building and scaling complex web applications across fintech, healthcare, e-commerce, and enterprise. I specialize in backend-heavy systems, workflow automation, AI-integrated products, VOIP, and deep API integrations.
 
-🔭 I’m currently working with the [United Nations](https://www.un.org/dgacm/en/content/gtext) as a Lead Contributor, building critical linguistic and editorial tools.
+[![Portfolio](https://img.shields.io/badge/Portfolio-khalilmohammad.com-0A9396?style=for-the-badge)](https://www.khalilmohammad.com)
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20·%20%24650K%2B-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/khalilmohammad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalil-mirza/)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalilmohammadmirza@gmail.com)
 
-🌱 I’m open to impactful and challenging full-stack/backend engineering roles, particularly in cloud-native, API-driven or automation-focused domains.
+💰 **$650K+ earned on Upwork** as a **Top Rated** freelancer with a **100% Job Success** score — clients consistently return for long-term, off-platform work.
 
-💬 Ask me about:
-- Languages: **JavaScript**, **TypeScript**, **Golang**, **Python**, **C#**
-- Backend: **Node.js**, **.NET Core**, **Express.js**
-- Frontend: **React**, **Vue.js**, **AngularJS**
-- Cloud: **AWS**, **Azure**, **Google Cloud Platform (GCP)**
-- Databases: **MySQL**, **PostgreSQL**, **SQL Server**, **MongoDB**
-- DevOps: **Docker**, **Kubernetes**, **Microservices**, **CI/CD**
+🔭 Currently building critical linguistic and editorial tools at the **[United Nations](https://www.khalilmohammad.com/experience/united-nations)**.
 
-📫 Reach out: [LinkedIn](https://www.linkedin.com/in/khalil-mirza/), [Email](mailto:khalilmohammadmirza@gmail.com)
+🤝 Open to senior/staff full-stack & backend roles **and** select consulting partnerships — especially cloud-native, API-driven, or automation-focused work.
 
-🚀 Key Projects:
-- **[eLUNa Suite @ United Nations](https://www.un.org/dgacm/en/content/gtext)** – Translation, editorial, and multilingual search platforms using .NET, Vue, Azure, and SQL Server.
-- **[Marketing Automation App](https://www.yourccsteam.com/)** – Built with Go, GCP, GRPC, Docker, Kubernetes, and ReactJS.
-- **[MMCHR Portal](http://mmcapp001.azurewebsites.net/)** – HR and payroll SaaS platform using .NET Core, Azure Functions, React, SQL Server.
-- **[Sysco Guest Supply](http://vcmsystems.com/)** – Scalable vendor compliance and guest supply portal using .NET, Node.js, Vue, AngularJS, AWS, Azure.
-- **[Inveterate Shopify Loyalty App](https://www.inveterate.com/)** – AWS CDK, Lambda, Node.js, React for loyalty integration on Shopify.
-- **[Telnyx SDK](https://developers.telnyx.com/)** – REST API SDK in 6 languages with full test coverage and continuous integration.
-- **[Zooma Azure Marketplace App]** – Automates ADP & Azure Entra ID workflows to reduce IT overhead.
-- **[PowerPoint Add-in for HanoverResearch]** – Automates data visualization and reporting in research documents.
-- **[TheWoundPros E-Signature Solution]** – HIPAA-compliant digital consent platform for healthcare.
-- **[Crayon Cargo Monitoring]** – Full-stack performance dashboard for maritime logistics.
+💬 **Ask me about:**
+- **Languages:** JavaScript, TypeScript, Golang, Python, C#, Rust
+- **Backend:** Node.js, .NET Core, Express.js, GraphQL, REST APIs
+- **Frontend:** React, React Native, Vue.js, AngularJS
+- **Cloud:** AWS, Azure, Google Cloud Platform
+- **Data:** MySQL, PostgreSQL, SQL Server, MongoDB
+- **DevOps:** Docker, Kubernetes, Microservices, CI/CD
 
-🧠 Noteworthy:
-- Built QuickBooks integrations (online and desktop) for multiple clients.
-- Developed LTI 1.3 compliant OAuth apps for education platforms.
-- Delivered Office Add-ins for FlowFact and PatentBots using AWS and Microsoft Graph API.
+🚀 **Featured case studies** (full write-ups on my site):
+- **[eLUNa Suite @ United Nations](https://www.khalilmohammad.com/experience/united-nations)** — translation, editorial & multilingual-search platforms (.NET, Vue, Azure, SQL Server).
+- **[Sysco Guest Supply](https://www.khalilmohammad.com/experience/guest-supply)** — scalable vendor-compliance & supply portal (.NET, Node.js, Vue, AWS, Azure).
+- **[MMCHR HR/Payroll Platform](https://www.khalilmohammad.com/experience/mmchr)** — enterprise HR, accounting & travel SaaS (.NET Core, Azure Functions, React, SQL Server).
+- **[Inveterate — Shopify Loyalty App](https://www.khalilmohammad.com/experience/inveterate)** — loyalty/membership platform (AWS CDK, Lambda, Node.js, React).
+- **[The Wound Pros — E-Signature](https://www.khalilmohammad.com/experience/wound-pros)** — HIPAA-compliant digital-consent platform across web & mobile.
+- **[CloudMigr8](https://www.khalilmohammad.com/experience/cloudmigr8)** — cloud cost-optimization & multi-cloud migration platform (Node.js, React, Stripe, Docker).
+- **[CrowdChoice](https://www.khalilmohammad.com/experience/crowdchoice)** — live DJ song-bidding platform across three real-time apps (Node.js, React Native, Stripe).
+
+🧠 **Also notable:**
+- **[ZOOMA Employee Identity Sync](https://marketplace.microsoft.com/en-us/product/zooma1706029227987.zooma-employee-identity-sync?tab=overview)** — Azure Marketplace app automating ADP ↔ Entra ID onboarding/offboarding. *(Live on Microsoft Marketplace.)*
+- **[Telnyx SDK](https://developers.telnyx.com/)** — REST API SDK in 6 languages with full test coverage & CI.
+- **PowerPoint Add-in** automating research reporting & data visualization — *for [Hanover Research ↗](https://www.hanoverresearch.com/)*.
+- **Cargo-vessel performance monitoring dashboard** (via Crayon) — *for [Bahri's fleet ↗](https://www.bahri.sa/en/fleet/)*.
+- **QuickBooks integrations** (Online & Desktop) for multiple clients.
+- **LTI 1.3-compliant OAuth apps** for education platforms.
+- **Office Add-ins** for FlowFact & Patent Bots using AWS & Microsoft Graph.
+
+📫 **[See the full portfolio → khalilmohammad.com](https://www.khalilmohammad.com)**
 
 😄 Pronouns: he/him/his
 
